@@ -1,4 +1,4 @@
-#👋 Hi, I’m @lol-idk-hehe
+👋 #Hi, I’m @lol-idk-hehe
 ---
 - 👀 I’m interested in **javascript**
 - 🌱 I’m currently learning **certain aspects of coding**
